@@ -1,1 +1,3 @@
 # PinakBot
+
+Fintech AI Bot
